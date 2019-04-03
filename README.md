@@ -17,6 +17,6 @@ Here I will use emoji to classify FXs in MIDI RANGER, so that you can easily kno
 :cloud:Spawn above the ground  
 ### Lightness:
 :new_moon:Suitable for dark scene  
-:first_quarter_moon:Suitable for half dark scene
-:full_moon:Suitable for bright scene
+:first_quarter_moon:Suitable for half dark scene  
+:full_moon:Suitable for bright scene  
   
