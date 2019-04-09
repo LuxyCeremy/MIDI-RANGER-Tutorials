@@ -1,7 +1,8 @@
 # MIDI-RANGER-Tutorials
 Some text tutorials about MIDI RANGER
 ## PURPOSE ##
-Here I will use emoji to classify FXs in MIDI RANGER, so that you can easily know what particle is that you want.
+Here I will use emoji to classify FXes in MIDI RANGER, so that you can easily know what particle is that you want.  
+And here I will notify every FX's Corresponding MIDI note in FX package, please pay attention that the lowest note is [C-1].
 ## SYMBOL ##
 ### Instruments:
 :musical_keyboard:Suitable for piano  
@@ -19,11 +20,16 @@ Here I will use emoji to classify FXs in MIDI RANGER, so that you can easily kno
 :new_moon:Suitable for dark scene  
 :first_quarter_moon:Suitable for half dark scene  
 :full_moon:Suitable for bright scene  
-💡 Suitable for all scene
+💡 Suitable for all scene  
+### Other
+📁A package contains several FXes
 ## FXes ##
 ### Default 🎹🔜☁️💡
-![avatar](https://raw.githubusercontent.com/LuxyCeremy/MIDI-RANGER-Tutorials/master/preview%20image/default.png)  
 ### Soul 🎻🔄☁️💡
-![avatar](https://raw.githubusercontent.com/LuxyCeremy/MIDI-RANGER-Tutorials/master/preview%20image/soul.png)  
 ### Star & Star S(mall) 🥁🔜☁️💡
-![avatar](https://raw.githubusercontent.com/LuxyCeremy/MIDI-RANGER-Tutorials/master/preview%20image/star.png) 
+### Sakura Circle 📁
+
+* [C-1] Magic Circle 🎬🔄🈵🈁🌑
+* [C<sup>#</sup>-1]Sakura Rain 🎬🔄🈁💡
+* [D-1]Bomb 🎬🔜🈁🌑
+* [D<sup>#</sup>-1]Sweep 🎬🔜🈁💡 
