@@ -29,7 +29,7 @@ And here I will notify every FX's Corresponding MIDI note in FX package, please 
 ### Star & Star S(mall) 🥁🔜☁️💡
 ### Sakura Circle 📁
 
-* [C-1] Magic Circle 🎬🔄🈵🈁🌑
-* [C<sup>#</sup>-1]Sakura Rain 🎬🔄🈁💡
-* [D-1]Bomb 🎬🔜🈁🌑
-* [D<sup>#</sup>-1]Sweep 🎬🔜🈁💡 
+* #### [C-1] Magic Circle 🎬🔄🈵🈁🌑
+* #### [C<sup>#</sup>-1]Sakura Rain 🎬🔄🈁💡
+* #### [D-1]Bomb 🎬🔜🈁🌑
+* #### [D<sup>#</sup>-1]Sweep 🎬🔜🈁💡 
