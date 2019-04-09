@@ -21,5 +21,9 @@ Here I will use emoji to classify FXs in MIDI RANGER, so that you can easily kno
 :full_moon:Suitable for bright scene  
 💡 Suitable for all scene
 ## FXes ##
-### Default 🎹🔜☁️
-
+### Default 🎹🔜☁️💡
+![avatar](https://raw.githubusercontent.com/LuxyCeremy/MIDI-RANGER-Tutorials/master/preview%20image/default.png)  
+### Soul 🎻🔄☁️💡
+![avatar](https://raw.githubusercontent.com/LuxyCeremy/MIDI-RANGER-Tutorials/master/preview%20image/soul.png)  
+### Star & Star S(mall) 🥁🔜☁️💡
+![avatar](https://raw.githubusercontent.com/LuxyCeremy/MIDI-RANGER-Tutorials/master/preview%20image/star.png) 
