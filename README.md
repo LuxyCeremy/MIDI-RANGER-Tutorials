@@ -1,35 +1,12 @@
 # MIDI-RANGER-Tutorials
-Some text tutorials about MIDI RANGER
-## PURPOSE ##
-Here I will use emoji to classify FXes in MIDI RANGER, so that you can easily know what particle is that you want.  
-And here I will notify every FX's Corresponding MIDI note in FX package, please pay attention that the lowest note is [C-1].
-## SYMBOL ##
-### Instruments:
-:musical_keyboard:Suitable for piano  
-:violin:Suitable for strings  
-:drum:Suitable for Percussions  
-:clapper:Other environment FX
-### Operation:
-:soon:Disposable FX  
-:arrows_counterclockwise:Sustained FX, shut down when Note Off  
-:u6e80:There can only be one at most  
-### Position:
-:koko:Static spawn location  
-:cloud:Spawn above the ground  
-### Lightness:
-:new_moon:Suitable for dark scene  
-:first_quarter_moon:Suitable for half dark scene  
-:full_moon:Suitable for bright scene  
-💡 Suitable for all scene  
-### Other
-📁A package contains several FXes
-## FXes ##
-### Default 🎹🔜☁️💡
-### Soul 🎻🔄☁️💡
-### Star & Star S(mall) 🥁🔜☁️💡
-### Sakura Circle 📁
+Some text tutorials about MIDI RANGER.
+## LANGUAGE ##
+If you don't use Chinese/Japanese/English as your mother tongue, but you want to use English as the default language. you can add 
+> ### -culture=en
 
-* #### [C-1] Magic Circle 🎬🔄🈵🈁🌑
-* #### [C<sup>#</sup>-1]Sakura Rain 🎬🔄🈁💡
-* #### [D-1]Bomb 🎬🔜🈁🌑
-* #### [D<sup>#</sup>-1]Sweep 🎬🔜🈁💡 
+to launch options. (Otherwise default language is Chinese)
+## MENU ##
+### [FX Tutorials](/FX.md)
+This page is about every FX's feature.
+### [Render Tutorials](/Render.md)
+Help you to render high quality video using MIDI RANGER.
