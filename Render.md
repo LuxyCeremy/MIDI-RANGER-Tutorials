@@ -12,18 +12,18 @@ If you don't have a good video card, but you want to render a high quality video
     make sure this directory exists.
 3. Choose a location that you want to save the temporary PNG files. For example:
     > ### F:\ScreenshotSaved
-    Caution: Space is <font color=red>**not**</font> allows in this directory.
-4. Open cmd as <font color=red>**administrator**</font>, run this command:
-    > ### mklink /D C:\Users\\[Username]\AppData\Local\MyProject4\Saved<font color=red>\\Screenshots</font> F:\ScreenshotSaved
+    Caution: Space is **not** allows in this directory.
+4. Open cmd as **administrator**, run this command:
+    > ### mklink /D C:\Users\\[Username]\AppData\Local\MyProject4\Saved\\Screenshots F:\ScreenshotSaved
     After this you will find a new folder link in 
-    > ### C:\Users\[Username]\AppData\Local\MyProject4\Saved 
+    **"C:\Users\[Username]\AppData\Local\MyProject4\Saved"**  
     which called **"Screenshots"**.  
 
 ## HOW
 ### MAIN
 1. You need to be able to play the song that you need to render in game, and set the "resolution" in "Options" to what you want to render. (but don't need to set FPS)
 2. Add  
-    > ### -DUMPMOVIE -BENCHMARK -FPS=<font color=orange>60</font> -NOTEXTURESTREAMING
+    > ### -DUMPMOVIE -BENCHMARK -FPS=60 -NOTEXTURESTREAMING
 
     to launch options via steam. (or using cmd)
 3. Run MIDI RANGER, and every frame will be saved in the directory you choose before.
@@ -33,11 +33,11 @@ Here I will show you how to transfer your rendered PNG sequence into video using
 1. Install FFMpeg.  
 [FFMpeg Download link](http://ffmpeg.org/download.html)
 2. Run this command:  
-    > ### ffmpeg -r <font color=orange>60</font> -i F:\ScreenshotSaved\WindowsNoEditor\MovieFrame%5d.png -vcodec mpeg4 F:\ScreenshotSaved\WindowsNoEditor\test.mp4
+    > ### ffmpeg -r 60-i F:\ScreenshotSaved\WindowsNoEditor\MovieFrame%5d.png -vcodec mpeg4 F:\ScreenshotSaved\WindowsNoEditor\test.mp4
     Then the video will be rendered to **"F:\ScreenshotSaved\WindowsNoEditor\test.mp4"**.  
 
 Caution: 
-* you are supposed to let the <font color=orange>Frame Rate</font> same with what you render.  
+* you are supposed to let the Frame Rate same with what you render.  
 * Maybe this parameters is not perfect, you can share us your parameters.
 
 Then you get a brand new video, and you can delete PNG files so that you can render next time.
