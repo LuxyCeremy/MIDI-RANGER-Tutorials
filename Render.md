@@ -15,7 +15,7 @@ If you don't have a good video card, but you want to render a high quality video
     Caution: Space is **not** allows in this directory.
 4. Open cmd as **administrator**, run this command:
     > ### mklink /D C:\Users\\[Username]\AppData\Local\MyProject4\Saved\\Screenshots F:\ScreenshotSaved
-    After this you will find a new folder link in 
+    After this you will find a new folder link in  
     **"C:\Users\[Username]\AppData\Local\MyProject4\Saved"**  
     which called **"Screenshots"**.  
 
