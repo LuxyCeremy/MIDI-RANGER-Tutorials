@@ -4,7 +4,7 @@ If you don't have a good video card, but you want to render a high quality video
 * If you want to render video like this, you must have more than 30Gb space. (for temporary storage, typically 1080p60 may cast 5-7Gb per minute)
 
 ## PREPARE
-####  You can escape this part if your "C:/" does not lack space. If you do like this, you will be able to render PNG sequence to a directory you want rather than defaultly in "C:/".
+####  You can skip this part if your "C:/" does not lack space. If you do like this, you will be able to render PNG sequence to a directory you want rather than defaultly "C:/".
 1. Run MIDI RANGER Casually.
 2. Go to
     > ### C:\Users\\[Username]\AppData\Local\MyProject4\Saved
