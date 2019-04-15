@@ -6,3 +6,5 @@ Some text tutorials about MIDI RANGER.
 This page is about every FX's feature.
 ### [Render Tutorials](/en/Render.md)
 Help you to render high quality video using MIDI RANGER.
+### [Common Error](/en/CommonError.md)
+Help you to render high quality video using MIDI RANGER.
